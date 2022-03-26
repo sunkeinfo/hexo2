@@ -1,6 +1,6 @@
 # Header
 menu:
-  Home: /
+  Home: / || fa fa-home
   Archives: /archives
 rss: /atom.xml
 
